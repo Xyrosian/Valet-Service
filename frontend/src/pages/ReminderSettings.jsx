@@ -166,7 +166,7 @@ export default function ReminderSettings() {
   const [preview, setPreview] = useState('');
   const [activeTemplate, setActiveTemplate] = useState('five_minute');
 
-  const hotelId = 'demo-hotel';
+  const hotelId = '7aee4163-12bc-4a40-9eee-ea7bb20e75d3';
 
   useEffect(() => {
     fetchData();
