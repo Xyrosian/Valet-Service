@@ -362,7 +362,7 @@ export default function AnalyticsDashboard() {
   });
 
   // Demo hotel ID
-  const hotelId = 'demo-hotel';
+  const hotelId = '7aee4163-12bc-4a40-9eee-ea7bb20e75d3';
 
   const fetchData = async () => {
     setLoading(true);
