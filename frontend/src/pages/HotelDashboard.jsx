@@ -338,7 +338,7 @@ export default function HotelDashboard() {
   const [loading, setLoading] = useState(true);
 
   // Demo hotel ID - in production this comes from auth
-  const hotelId = 'demo-hotel';
+  const hotelId = '7aee4163-12bc-4a40-9eee-ea7bb20e75d3';
 
   const fetchData = async () => {
     try {
